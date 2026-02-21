@@ -6,6 +6,5 @@
 - 🌱 I’m currently learning Product Management and improving my skills in requirement definition and specification documentation.
 - 💬 Ask me about B2B marketing strategies—I have about 5 years of experience supporting marketing strategies and initiatives for B2B companies.
   - [Case study articles from my time as a consultant](https://sairu.co.jp/member/1491/)
-- 📫 How to reach me: [X](https://x.com/user_id_uk)
-- 🎭 Hobby: I’m also into amateur comedy
+- 📫 How to reach me: [X](https://x.com/user_id_us)
 - 🎙️ Podcast: I host a podcast called "[マーケターの仮説ラヂオ 〜身近なあれこれマーケティング視点で考えてみた〜](https://linktr.ee/kasetsu_radio)"
